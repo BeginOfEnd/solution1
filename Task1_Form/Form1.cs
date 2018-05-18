@@ -14,7 +14,7 @@ namespace Task1_Form
 {
     public partial class Form1 : Form
     {
-        public Task1_BL.InOut solution = new Task1_Logic.InOut();
+        InOut1 solution = new InOut1();
         public Form1()
         {
             InitializeComponent();
